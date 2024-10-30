@@ -1,0 +1,26 @@
+
+//Set icon item
+setIcon(<minecraft:dirt>)
+
+//Set title String
+setTitle("Debug")
+
+setCount (5)
+
+//Set description String
+setDescription("Break dirt")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:extras/root")
+
+//Set the position
+setPos(52,49)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "brokeblock" with the trigger type "triumph:player_break_block". This function returns the criteria as an object
+criteria = addCriteria("brokeblock", "triumph:player_break_block")
+
+//Sets the required block for the criteria. This is the block that needs to be broken by the player.
+criteria.setBlock(<ore:dirt>)
