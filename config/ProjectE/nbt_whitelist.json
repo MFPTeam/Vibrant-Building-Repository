@@ -1,6 +1,20 @@
 {
   "items": [
-    "tconstruct:pickaxe"
+    "tconstruct:pickaxe",
+    "tconstruct:longsword",
+    "tconstruct:rapier",
+    "tconstruct:shovel",
+    "tconstruct:sword",
+    "tconstruct:lumberaxe",
+    "tconstruct:cleaver",
+    "tconstruct:battleaxe",
+    "tconstruct:scythe",
+    "tconstruct:war_axe",
+    "tconstruct:kunai",
+    "tconstruct:trident",
+    "tconstruct:halberd",
+    "tconstruct:javelin",
+    "tconstruct:spear"
   ],
   "__comment": "To add items to NBT Whitelist, simply add its registry name as a String to the above array"
 }
