@@ -31,19 +31,19 @@
         {
           "output": "minecraft:iron_horse_armor|0",
           "ingredients": {
-            "minecraft:iron_ingot|0": 8
+            "minecraft:iron_ingot|0": 6
           }
         },
         {
           "output": "minecraft:golden_horse_armor|0",
           "ingredients": {
-            "minecraft:gold_ingot|0": 8
+            "minecraft:gold_ingot|0": 6
           }
         },
         {
           "output": "minecraft:diamond_horse_armor|0",
           "ingredients": {
-            "minecraft:diamond|0": 8
+            "minecraft:diamond|0": 6
           }
         }
       ]
