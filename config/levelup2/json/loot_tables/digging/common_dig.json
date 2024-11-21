@@ -70,18 +70,18 @@
         {
           "type": "item",
           "name": "minecraft:painting",
-          "weight": 5
+          "weight": 3
         },
         {
           "type": "item",
           "name": "minecraft:string",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "set_count",
               "count": {
-                "min": 1,
-                "max": 2
+                "min": 2,
+                "max": 5
               }
             },
             {
@@ -116,56 +116,65 @@
         },
         {
           "type": "item",
-          "name": "minecraft:stone_sword",
+          "name": "minecraft:iron_sword",
           "weight": 1,
           "functions": [
             {
               "function": "set_damage",
               "damage": {
-                "min": 0,
-                "max": 0.90
+                "min": 1.0,
+                "max": 5.0
               }
             }
           ]
         },
         {
           "type": "item",
-          "name": "minecraft:stone_shovel",
+          "name": "minecraft:iron_shovel",
           "weight": 1,
           "functions": [
             {
               "function": "set_damage",
               "damage": {
                 "min": 0,
-                "max": 0.90
+                "max": 0.75
               }
             }
           ]
         },
         {
           "type": "item",
-          "name": "minecraft:stone_pickaxe",
+          "name": "minecraft:iron_pickaxe",
           "weight": 1,
           "functions": [
             {
               "function": "set_damage",
               "damage": {
-                "min": 0,
-                "max": 0.90
+                "min": 0.4,
+                "max": 0.75
               }
             }
           ]
         },
         {
           "type": "item",
-          "name": "minecraft:stone_axe",
+          "name": "minecraft:iron_axe",
           "weight": 1,
           "functions": [
             {
               "function": "set_damage",
               "damage": {
-                "min": 0,
-                "max": 0.90
+                "min": 1.0,
+                "max": 5.0
+             }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 10
+        },   
               }
             }
           ]
