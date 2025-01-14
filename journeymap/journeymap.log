@@ -1,21 +1,21 @@
-[17:18:19] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[17:18:19] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[17:18:19] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Modded%20MC\Modpack%20Development\Development\Vibrant%20Building\Instances\e\mods\journeymap-1.12.2-5.7.1p2.jar\assets\journeymap\theme\flat
-[17:18:20] [Client thread/INFO] [PropertiesBase] core (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.core.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] core (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.core.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] fullmap (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.fullmap.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] fullmap (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.fullmap.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] minimap (Initialized) Setting config file to version "5.7.1p2": journeymap.minimap.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] minimap (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.minimap.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] minimap2 (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.minimap2.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] minimap2 (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.minimap2.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] topo (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.topo.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] topo (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.topo.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] webmap (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.webmap.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] webmap (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.webmap.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] waypoint (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.waypoint.config
-[17:18:20] [Client thread/INFO] [PropertiesBase] waypoint (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\config\5.7\journeymap.waypoint.config
-[17:18:20] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1p2, built with Forge 14.23.5.2768
+[15:01:19] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[15:01:19] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[15:01:19] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: E:\Modpack%20Development\Modpacks\Vibrant%20Building\Instances\Vibrant%20Building\mods\journeymap-1.12.2-5.7.1p2.jar\assets\journeymap\theme\flat
+[15:01:19] [Client thread/INFO] [PropertiesBase] core (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.core.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] core (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.core.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] fullmap (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.fullmap.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] fullmap (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.fullmap.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] minimap (Initialized) Setting config file to version "5.7.1p2": journeymap.minimap.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] minimap (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.minimap.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] minimap2 (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.minimap2.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] minimap2 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.minimap2.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] topo (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.topo.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] topo (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.topo.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] webmap (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.webmap.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] webmap (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.webmap.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] waypoint (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.waypoint.config
+[15:01:19] [Client thread/INFO] [PropertiesBase] waypoint (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\config\5.7\journeymap.waypoint.config
+[15:01:19] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1p2, built with Forge 14.23.5.2768
 Forge: 14.23.5.2859
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -32,32 +32,35 @@ FullMapProperties{state=SavedOk, file=journeymap.fullmap.config, configVersion=5
 WaypointProperties{state=SavedOk, file=journeymap.waypoint.config, configVersion=5.7.1p2, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=SavedOk, file=journeymap.webmap.config, configVersion=5.7.1p2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
 CoreProperties{state=SavedOk, file=journeymap.core.config, configVersion=5.7.1p2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[17:18:20] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[17:18:20] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[17:18:20] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
-[17:18:20] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[17:18:35] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Modded%20MC\Modpack%20Development\Development\Vibrant%20Building\Instances\e\mods\journeymap-1.12.2-5.7.1p2.jar\assets\journeymap\icon\entity
-[17:18:35] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[17:18:35] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Modded%20MC\Modpack%20Development\Development\Vibrant%20Building\Instances\e\mods\journeymap-1.12.2-5.7.1p2.jar\assets\journeymap\theme\flat
-[17:18:35] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
-[17:18:35] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.7.1p3.jar for Minecraft 1.12.2 on http://minecraft.curseforge.com/projects/journeymap/files/5172461
-[17:21:06] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.server.global.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\server\5.7\journeymap.server.global.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.server.default.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\server\5.7\journeymap.server.default.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim0 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim0.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim0 (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\server\5.7\journeymap.server.dim0.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim1 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim1.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim1 (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\server\5.7\journeymap.server.dim1.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim-1 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-1.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim-1 (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\server\5.7\journeymap.server.dim-1.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim-17 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-17.config
-[17:21:06] [Server thread/INFO] [PropertiesBase] dim-17 (Valid) Creating config file: C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\server\5.7\journeymap.server.dim-17.config
-[17:21:14] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[17:21:14] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[17:21:14] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\data\sp\Debug World\waypoints
-[17:21:14] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\data\sp\Debug World\DIM0. Memory: 4358MB total, 1678MB free 
-[17:53:50] [JM-task-4/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[17:53:50] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[17:53:55] [Client thread/INFO] [StateTickHandler] ArcticGamerYT died at BlockPos{x=10, y=2, z=10}. Deathpoints enabled: true. Deathpoint created: true
-[18:26:49] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Modded MC\Modpack Development\Development\Vibrant Building\Instances\e\journeymap\data\sp\Debug World\DIM0
+[15:01:20] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[15:01:20] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[15:01:20] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[15:01:20] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[15:01:28] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: E:\Modpack%20Development\Modpacks\Vibrant%20Building\Instances\Vibrant%20Building\mods\journeymap-1.12.2-5.7.1p2.jar\assets\journeymap\icon\entity
+[15:01:28] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[15:01:28] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: E:\Modpack%20Development\Modpacks\Vibrant%20Building\Instances\Vibrant%20Building\mods\journeymap-1.12.2-5.7.1p2.jar\assets\journeymap\theme\flat
+[15:01:28] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[15:01:29] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.7.1p3.jar for Minecraft 1.12.2 on http://minecraft.curseforge.com/projects/journeymap/files/5172461
+[15:04:15] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.server.global.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.global.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.server.default.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.default.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim0 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim0.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim0 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.dim0.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim1 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim1.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim1 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.dim1.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-1 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-1.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-1 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.dim-1.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-17 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-17.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-17 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.dim-17.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-11325 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-11325.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-11325 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.dim-11325.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-9999 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-9999.config
+[15:04:15] [Server thread/INFO] [PropertiesBase] dim-9999 (Valid) Creating config file: E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\server\5.7\journeymap.server.dim-9999.config
+[15:04:23] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:04:23] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:04:23] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\data\sp\Test World\waypoints
+[15:04:23] [Client thread/INFO] [JourneymapClient] Mapping started in E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\data\sp\Test World\DIM0. Memory: 5408MB total, 1452MB free 
+[15:04:23] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[15:05:17] [JM-task-4/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[15:14:53] [Client thread/INFO] [JourneymapClient] Mapping halted in E:\Modpack Development\Modpacks\Vibrant Building\Instances\Vibrant Building\journeymap\data\sp\Test World\DIM0
