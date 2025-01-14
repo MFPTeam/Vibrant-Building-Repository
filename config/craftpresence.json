@@ -134,7 +134,8 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "ArcticGamerYT": "https://mc-heads.net/avatar/ae1e1827e356454ea4661bca3385b7bd"
     },
     "dynamicVariables": {
       "default": "Example Text",
