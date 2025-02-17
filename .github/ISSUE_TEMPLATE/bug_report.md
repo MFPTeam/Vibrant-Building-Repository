@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: ㅤㅤㅤㅤ
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Discord Username (Required)
 List your discord username as a form of contact.
 
