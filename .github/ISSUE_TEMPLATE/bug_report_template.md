@@ -1,15 +1,30 @@
+## Discord Username (Required)
+List your discord username as a form of contact.
 
-**Discord Username:**
-Please provide your discord username so we can reach you.
+## Describe the bug
+A clear and concise description of what the bug is.
 
-**Describe the bug:**
-Please describe the issue in detail with cause if possible.
+## To Reproduce
+Explain how to reproduce the issue
 
-**How to reproduce the issue:**
-Please Describe how to recreate the issue
+## Expected behavior
+A clear and concise description of what you expected to happen.
 
-**List the modpack version**
-Please list the  version of the modpack this issue happened on
+## Priority
+What is the impact of this bug on the user, how critical is to fix? P0, P1 .. P4
+[Reference - Google Issue tracker priority levels](https://developers.google.com/issue-tracker/concepts/issues#priority)
 
-**Additional context**
-Please include any other concerns about the problem here.
+## Screenshots/Video
+If applicable, add screenshots/video to help explain your problem.
+Remember to mark the area in the application thats impacted.
+
+## Version Control
+ - Game Version: [e.g. 1.12.2]
+ - Modpack Version [e.g. v1.3]
+   
+## Specifications
+- Memory Amount
+- Storage Amount
+
+## Additional context
+Feel free to include any other concerns about the problem here.
