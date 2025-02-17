@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: ㅤㅤㅤㅤ
+about: Fill out the following to submit a report
 title: ''
 labels: ''
 assignees: ''
